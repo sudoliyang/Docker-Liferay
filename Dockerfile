@@ -1,5 +1,7 @@
 From sudoliyang/ubuntu-java7u79
 
+MAINTAINER sudoliyang <sudo.liyang@gmail.com> 
+
 RUN mkdir /home/liferay \
     && cd /home/liferay \
     && apt-get install -y unzip \
