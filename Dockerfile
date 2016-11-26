@@ -1,6 +1,5 @@
 From sudoliyang/ubuntu-java7u79
 
-
 RUN mkdir /home/liferay \
     && cd /home/liferay \
     && apt-get install -y unzip \
